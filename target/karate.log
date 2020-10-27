@@ -1,0 +1,6 @@
+16:45:37.926 [Test worker] ERROR com.intuit.karate - javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated, http call failed after 305 milliseconds for URL: https://reqres.in/api/users%3Fpage=1
+16:45:37.929 [Test worker] ERROR com.intuit.karate - http request failed: 
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated
+16:46:43.255 [Test worker] ERROR com.intuit.karate - javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated, http call failed after 299 milliseconds for URL: https://reqres.in/api/users%3Fpage=1
+16:46:43.257 [Test worker] ERROR com.intuit.karate - http request failed: 
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated
