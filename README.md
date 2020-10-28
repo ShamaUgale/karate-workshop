@@ -1,21 +1,19 @@
 # karate-workshop
 
-############## Clone the repo ##############
+## Prerequisites
 
-git clone https://github.com/ShamaUgale/karate-workshop.git 
+* Install JDK v11 / v13
 
-cd karate-workshop
+## Clone the repo
 
+```git clone https://github.com/ShamaUgale/karate-workshop.git``` 
 
+```cd karate-workshop```
 
+## Runing tests using Maven
 
-############## Run tests using Maven ##############
+```mvn clean test```
 
-mvn clean test
+## Running tests using gradle
 
-
-
-
-############## Run Tests using gradle ##############
-
-gradle clean test
+```gradle clean test```
